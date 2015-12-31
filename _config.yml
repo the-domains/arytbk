@@ -1,0 +1,28 @@
+name: arytbk
+favicon: null
+layout_spectrum: 0.5558813137467951
+typography_spectrum: 0.6816652258858085
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.05295058758929372
+  lightness: 0.7088362080976367
+  saturation: 0.4980051848106086
+  rhythmicContrast: 0.17170954239554703
+purpose: []
